@@ -1,0 +1,15 @@
+[package]
+name = "byter"
+version = "0.0.0"
+authors = ["Nikolai Vazquez"]
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+homepage = "https://github.com/nvzqz/byter-rs"
+repository = "https://github.com/nvzqz/byter-rs"
+documentation = "https://docs.rs/byter"
+categories = ["no-std"]
+keywords = ["ascii", "byte"]
+description = "Fast, specialized operations over bytes."
+include = ["Cargo.toml", "src/**/*.rs", "README.md", "CHANGELOG.md", "LICENSE*"]
+
+[dependencies]
